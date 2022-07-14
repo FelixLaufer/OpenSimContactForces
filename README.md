@@ -9,5 +9,8 @@ DOI: 10.1080/10255842.2017.1393804
 
 https://www.researchgate.net/publication/320734626_A_contact_model_to_simulate_human-artifact_interaction_based_on_force_optimization_implementation_and_application_to_the_analysis_of_a_training_machine
 
-## SimTK/OpenSim project page
+## Original project page
 https://simtk.org/projects/statopt-contact
+
+## Usage
+To install and use the plugin, please refer to https://simtk-confluence.stanford.edu:8443/display/OpenSim/Using+Plugins and the provided documentation file.
