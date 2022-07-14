@@ -14,3 +14,6 @@ https://simtk.org/projects/statopt-contact
 
 ## Usage
 To install and use the plugin, please refer to https://simtk-confluence.stanford.edu:8443/display/OpenSim/Using+Plugins and the provided documentation file.
+
+## Requires
+- OpenSim >= 4.0
