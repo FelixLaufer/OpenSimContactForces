@@ -1,7 +1,7 @@
 # OpenSimContactForces
-OpenSim 4.0 plugin to estimate contact forces based on the work of D. Krueger and S. Wartzack. 
-This work is based on the initial implementation by D. Krueger, which did not work for newer OpenSim versions.
-It can be particulary useful for estimating ground reaction forces within OpenSim's static optimization.
+OpenSim 4.0 plugin to estimate contact forces based on the work of D. Krüger and S. Wartzack. 
+This plugin was re-implemented by me based on the initial version provided by D. Krüger, which did not work anymore for newer OpenSim versions.
+It can be particulary useful for estimating ground reaction forces during human gait within OpenSim's static optimization.
 
 ## Original Paper
 D. Krüger and S. Wartzack, “A contact model to simulate human–artifact interaction based on force optimization: implementation and application to the analysis of a training machine,” Computer Methods in Biomechanics and Biomedical Engineering, pp. 1–10, Oct. 2017.
